@@ -1,0 +1,5 @@
+Clustering coefficient: 0.055
+Network density: 0.0
+
+Network Diameter: 12
+Characteristic path length: 6.396
