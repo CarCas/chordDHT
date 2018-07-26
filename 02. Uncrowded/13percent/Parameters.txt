@@ -1,0 +1,4 @@
+CC: 0.095
+ND: 0.0
+Net Diameter: 10
+Char PL: 4933

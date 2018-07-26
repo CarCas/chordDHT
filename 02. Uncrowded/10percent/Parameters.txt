@@ -1,0 +1,4 @@
+CC: 0.099
+NetDensity: 0.0
+NetDiameter: 10
+Char Path Len: 4790
